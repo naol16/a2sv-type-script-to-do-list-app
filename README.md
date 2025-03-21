@@ -34,6 +34,5 @@ tsc
 sh
 Copy code
 node dist/index.js
+
 check  out   the screen shot under the screen shot folder
-here using option 5 we are exisiting from our task.
-![Screenshot (36)](https://github.com/user-attachments/assets/98ffe9ee-8d0b-407f-b749-d5fe074ed2e1)
